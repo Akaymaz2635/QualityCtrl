@@ -1,0 +1,18 @@
+# Build
+dist/
+build/
+*.spec.bak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database & uploads (user data)
+data/
+uploads/
+
+# Env
+.env
+*.env
